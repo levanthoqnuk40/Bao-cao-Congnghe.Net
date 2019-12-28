@@ -1,0 +1,2 @@
+Ứng dụng được chạy trên nền tảng .Net framework 4.7.2
+File CSDL là file data đã được Backup
